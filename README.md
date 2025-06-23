@@ -7,22 +7,22 @@ A **C# and MySQL-based** desktop application designed to help computer laborator
 
 ## 🚀 Features
 
-- ✅ Manage Items (CRUD)
-- 🔄 Transfer Items
-- 🛠️ Under Maintenance Items
-- ❌ Lost and Damaged Items
-- 🧩 Manage Parts
-- 🖥️ Manage Computer Sets
-- 🏷️ Manage Brands
-- 📍 Manage Locations
-- 👥 Manage Users
-- 📋 Generate and Print Reports:
+- Manage Items (CRUD)
+-  Transfer Items
+- Under Maintenance Items
+- Lost and Damaged Items
+-  Manage Parts
+-  Manage Computer Sets
+-  Manage Brands
+-  Manage Locations
+-  Manage Users
+-  Generate and Print Reports:
   - List of All Items
   - Damaged Items
   - Transferred Items
   - Lost Items
   - Under Maintenance Items
-- 🔐 Login & Logout System
+  - Login & Logout System
 
 ---
 
@@ -54,4 +54,4 @@ Make sure to install the following before running the system:
 
    ```
 
-   
+
