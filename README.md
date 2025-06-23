@@ -51,7 +51,50 @@ Make sure to install the following before running the system:
 1. **Download or Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/computer-lab-monitoring.git
-
    ```
 
+   
 
+## 2. Database Setup
+
+Open XAMPP and start the MySQL service.
+
+-💬 Start Apache too if you plan to use phpMyAdmin.
+
+-Visit http://localhost/phpmyadmin in your browser.
+
+-Create a new database named: dbmonitoring
+
+-💬 In phpMyAdmin, click “New” and enter the database name.
+
+-Import dbmonitoring.sql from the root project folder.
+
+-💬 Use the Import tab in phpMyAdmin to upload the SQL file and create the required tables.
+
+   
+
+
+## 3. Open the Project in Visual Studio
+
+-Open the solution file: ComputerMonitoringSystem.sln
+
+-💬 This file loads the full project in Visual Studio.
+
+-In the Solution Explorer, locate and open SQLConfig.cs.
+
+## 🔐 Admin Login
+
+-Username: admin
+
+-Password: admin
+
+## 📚 Learning Opportunity
+This project is ideal for beginners who want to learn:
+
+-C# and MySQL Database Integration
+
+-CRUD Operations (Create, Read, Update, Delete)
+
+- Report Generation using SAP Crystal Reports
+
+- Desktop App Development using WinForms in Visual Studio
